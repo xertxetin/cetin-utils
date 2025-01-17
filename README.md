@@ -113,6 +113,13 @@ We welcome contributions! If you have feature ideas or improvements, feel free t
 
 This project is licensed under the **CC BY-NC-ND 4.0 License**. See the [LICENSE](./LICENSE.md) file for more details.
 
+## Additional Terms
+The core components of the CetinJS framework are currently closed-source and encrypted. This means that the fundamental structure and internal workings of the framework are not shared with users. As a result, the core code of CetinJS will not be accessible or modifiable in an open manner.
+
+However, CetinJS provides developers with the ability to create and develop projects. Users can leverage CetinJS to build high-performance and compatible applications for various projects.
+
+You can create applications using the Core software and publish and distribute these applications under your brand name. Simply providing attribution to CetinJS is sufficient. Since the Core software is encrypted (because the project's direction is not yet clear, there are no commercial activities, and future plans are still uncertain), it is prohibited to crack or modify it, and attempting to redistribute it is also forbidden.
+
 ---
 
 Developed with ❤️ by [XertXetin](https://www.google.com/search?q=XertXetin) 🚀 [Me Force Technology](https://www.meforcetechnology.com/).
