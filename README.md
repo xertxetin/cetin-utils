@@ -105,7 +105,7 @@ Leverage **Cetin-Utils** to simplify common tasks. You can also integrate its co
 We welcome contributions! If you have feature ideas or improvements, feel free to:
 
 - **Open an Issue**: Share your suggestions or bug reports.
-- **Submit a Pull Request**: Contribute directly to the [GitHub repository](https://github.com/xertxetin/Cetin-Utils/).
+- **Submit a Pull Request**: Contribute directly to the [GitHub repository](https://github.com/xertxetin/cetin-utils/pulls).
 
 
 
