@@ -45,14 +45,6 @@ Install **Cetin-Utils** via NPM:
 npm install cetin-utils
 ```
 
-### Local Testing
-If you are testing locally, link the package:
-
-```bash
-npm link
-```
-
-
 ## Usage
 
 Leverage **Cetin-Utils** to simplify common tasks. You can also integrate its commands directly into your `package.json` scripts for seamless execution within your project.
@@ -64,7 +56,7 @@ Leverage **Cetin-Utils** to simplify common tasks. You can also integrate its co
   "build": "node node_modules/cetin-utils/build.js",
   "web": "node node_modules/cetin-utils/run-build.js",
   "android": "node node_modules/cetin-utils/run-open-android.js",
-  "core-install": "node node_modules/cetin-utils/run-install-cetin-core.js",
+  "core-check": "node node_modules/cetin-utils/run-check-cetin-core.js",
   "start": "node node_modules/cetin-utils/run-src.js"
 }
 ```
@@ -86,7 +78,6 @@ Leverage **Cetin-Utils** to simplify common tasks. You can also integrate its co
    ```bash
    npm run start
    ```
-
 
 ### Cetin-Core Module States
 
