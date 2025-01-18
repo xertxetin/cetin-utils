@@ -81,6 +81,16 @@ Leverage **Cetin-Utils** to simplify common tasks. You can also integrate its co
 
 ### Cetin-Core Module States
 
+---
+
+> **Important Notice:** 
+> 
+> The [**`@cetin-utils`**](https://www.npmjs.com/package/cetin-utils) module requires the [**`@cetin-core`**](https://www.npmjs.com/package/cetin-core) module to function properly.
+> 
+> For building and running **`npm run core-check`**, the [**`@cetin-core`**](https://www.npmjs.com/package/cetin-core) module is required. Please ensure it is included.
+
+---
+
 5. **Check Cetin Core:**
    ```bash
    npm run core-check
