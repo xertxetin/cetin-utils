@@ -86,10 +86,22 @@ Leverage **Cetin-Utils** to simplify common tasks. You can also integrate its co
    ```bash
    npm run start
    ```
-5. **Install or Update Cetin Core:**
+
+
+### Cetin-Core Module States
+
+5. **Check Cetin Core:**
    ```bash
-   npm run core-install
+   npm run core-check
    ```
+
+| ![Cetin-Core Available](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/cetin-utils/available-core.jpg) | ![Cetin-Core Not Available](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/cetin-utils/not-core.jpg) |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Shows that Cetin-Core is present and up-to-date in your project** | **Shows that Cetin-Core is not present in your project, and the module needs to be installed** |
+
+| ![Cetin-Core Update Install](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/cetin-utils/update-install-core.jpg) | ![Cetin-Core New Version](https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/cetin-utils/new-version-core.jpg) |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Shows that the Cetin-Core module exists, but it is not in your project, and it has been added** | **Shows that the Cetin-Core module is not up-to-date and needs to be updated** |
 
 
 ## Why Use Cetin-Utils?
