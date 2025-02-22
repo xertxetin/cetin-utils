@@ -137,6 +137,14 @@ You can create applications using the Core software and publish and distribute t
 
 Developed with ❤️ by [XertXetin](https://www.google.com/search?q=XertXetin) 🚀 [Me Force Technology](https://www.meforcetechnology.com/).
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/xertxetin" style="text-decoration:none;"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xertxetin&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
+---
+
+<div align="center">
+  <a href="https://github.com/sponsors/xertxetin" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Support%20Me-Sponsor-blueviolet?style=for-the-badge&logo=github" alt="Sponsor Me">
+  </a>
+  
+  <a href="https://www.buymeacoffee.com/xertxetin" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee">
+  </a>
+</div>
